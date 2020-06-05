@@ -1,14 +1,14 @@
-# Repository Title Goes Here
+# Ecoleta
 
-> Subtitle or Short Description Goes Here
+> Add or find points for dropping residues (used bateries, oils, lamps, .etc) in your city.
 
-[![](http://i.imgur.com/dt8AUb6.png)]()
+[![](http://i.imgur.com/XRuHgoM.png)]()
 
 
 ## Mobile App
 
-splash
-https://i.imgur.com/62wszja.png
+[![splash](http://i.imgur.com/62wszja.png)]()
+
 
 start
 https://i.imgur.com/eXesEIK.png
