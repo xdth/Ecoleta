@@ -2,22 +2,22 @@
 
 > Add or find points for dropping residues (used bateries, oils, lamps, .etc) in your city.
 
-[![](http://i.imgur.com/XRuHgoM.png)]()
+[![cover](http://i.imgur.com/XRuHgoM.png)]()
 
 
 ## Mobile App
 
+### Splash screen
 [![splash](http://i.imgur.com/62wszja.png)]()
 
+### Start
+[![splash](http://i.imgur.com/eXesEIK.png)]()
 
-start
-https://i.imgur.com/eXesEIK.png
+### Home
+[![splash](http://i.imgur.com/3ITe2Gy.png)]()
 
-home
-https://i.imgur.com/3ITe2Gy.png
-
-detail
-https://i.imgur.com/FXBK596.png
+### Detail
+[![splash](http://i.imgur.com/FXBK596.png)]()
 
 
 ## Web App
