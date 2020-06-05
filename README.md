@@ -5,28 +5,28 @@ Add or find points for dropping residues (used bateries, oils, lamps, .etc) in y
 [![cover](http://i.imgur.com/XRuHgoM.png)]()
 
 
-## Mobile App
+## 1. Mobile App
 
-### Splash screen
+#### Splash screen
 [![splash](http://i.imgur.com/62wszja.png)]()
 
-### Start
+#### Start
 [![splash](http://i.imgur.com/eXesEIK.png)]()
 
-### Home
+#### Home
 [![splash](http://i.imgur.com/3ITe2Gy.png)]()
 
-### Detail
+#### Detail
 [![splash](http://i.imgur.com/FXBK596.png)]()
 
 
-## Web App
+## 2. Web App
 
-### Start
+#### Start
 [![splash](http://i.imgur.com/JtqXNp8.png)]()
 
-### Create collection point
+#### Create collection point
 [![splash](http://i.imgur.com/rCW0wDV.png)]()
 
-### Success screen
+#### Success screen
 [![splash](http://i.imgur.com/2iIlmY7.png)]()
