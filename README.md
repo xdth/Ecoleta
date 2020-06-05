@@ -1,14 +1,12 @@
 # Ecoleta
 
 Add or find points for dropping residues (used bateries, oils, lamps, .etc) in your city.
+Created for the NLW 01 using *NodeJS* for the backend, *React Native* for the mobile app and *ReactJS* for the frontend.
 
 [![cover](http://i.imgur.com/XRuHgoM.png)]()
 
 
 ## 1. Mobile App
-
-#### Splash screen
-[![splash](http://i.imgur.com/62wszja.png)]()
 
 #### Start
 [![splash](http://i.imgur.com/eXesEIK.png)]()
@@ -18,6 +16,9 @@ Add or find points for dropping residues (used bateries, oils, lamps, .etc) in y
 
 #### Detail
 [![splash](http://i.imgur.com/FXBK596.png)]()
+
+#### Splash screen
+[![splash](http://i.imgur.com/62wszja.png)]()
 
 
 ## 2. Web App
